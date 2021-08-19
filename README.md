@@ -1,8 +1,8 @@
 ### Olá, eu sou a Samara Danielly 👋
 <div>
   <a href="https://github.com/SamaraDanielly">
-  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=SamaraDanielly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraDanielly&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" width="480em" src="https://github-readme-stats.vercel.app/api?username=SamaraDanielly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamaraDanielly&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
